@@ -1,0 +1,91 @@
+Susan the Monster vs Bob the Human
+
+Round 1
+Monster damage: 6, Human has 94 life left.
+Human damage: 8, Monster has 92 life left.
+
+Round 2
+Monster damage: 9, Human has 85 life left.
+Human damage: 0, Monster has 92 life left.
+
+Round 3
+Monster damage: 3, Human has 82 life left.
+Human damage: 9, Monster has 83 life left.
+
+Round 4
+Monster damage: 7, Human has 75 life left.
+Monster used special attack in round 4, dealing 1 damage on human.
+Human damage: 9, Monster has 74 life left.
+
+Round 5
+Monster damage: 3, Human has 71 life left.
+Human damage: 8, Monster has 66 life left.
+
+Round 6
+Monster damage: 3, Human has 68 life left.
+Human damage: 3, Monster has 63 life left.
+
+Round 7
+Monster damage: 1, Human has 67 life left.
+Human damage: 6, Monster has 57 life left.
+
+Round 8
+Monster damage: 8, Human has 59 life left.
+Monster used special attack in round 8, dealing 1 damage on human.
+Human damage: 2, Monster has 55 life left.
+
+Round 9
+Monster damage: 5, Human has 53 life left.
+Human damage: 1, Monster has 54 life left.
+
+Round 10
+Monster damage: 1, Human has 52 life left.
+Human damage: 9, Monster has 45 life left.
+
+Round 11
+Monster damage: 1, Human has 51 life left.
+Human damage: 4, Monster has 41 life left.
+
+Round 12
+Monster damage: 2, Human has 49 life left.
+Monster used special attack in round 12, dealing 1 damage on human.
+Human damage: 3, Monster has 38 life left.
+
+Round 13
+Monster damage: 7, Human has 41 life left.
+Human damage: 3, Monster has 35 life left.
+
+Round 14
+Monster damage: 3, Human has 38 life left.
+Human damage: 6, Monster has 29 life left.
+
+Round 15
+Monster damage: 6, Human has 32 life left.
+Human damage: 7, Monster has 22 life left.
+
+Round 16
+Monster damage: 6, Human has 26 life left.
+Monster used special attack in round 16, dealing 1 damage on human.
+Human damage: 0, Monster has 22 life left.
+
+Round 17
+Monster damage: 7, Human has 18 life left.
+Human damage: 3, Monster has 19 life left.
+
+Round 18
+Monster damage: 5, Human has 13 life left.
+Human damage: 9, Monster has 10 life left.
+
+Round 19
+Monster damage: 8, Human has 5 life left.
+Human damage: 4, Monster has 6 life left.
+
+Round 20
+Monster damage: 4, Human has 1 life left.
+Monster used special attack in round 20, dealing 1 damage on human.
+Human damage: 0, Monster has 6 life left.
+
+Susan the Monster WINS!
+Monster life: 6
+Human life: 0
+Total rounds: 20
