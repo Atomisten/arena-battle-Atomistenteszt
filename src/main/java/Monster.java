@@ -7,7 +7,7 @@ public class Monster {
     private int life;
 
     Random random = new Random();
-    private final int specialAttack = random.nextInt(2)+3;
+    private final int specialAttack = random.nextInt(3) + 3;
 
     public Monster(String name) {
         this.name = name;
