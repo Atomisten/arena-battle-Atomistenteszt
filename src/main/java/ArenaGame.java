@@ -8,6 +8,5 @@ public class ArenaGame {
         arena.setHuman(human);
         arena.setMonster(monster);
         arena.letsBattle();
-        System.out.println("teszt");
     }
 }
